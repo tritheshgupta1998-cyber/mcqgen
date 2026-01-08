@@ -1,0 +1,6 @@
+[2026-01-08 14:52:29,532] 259 langchain_community.chat_models.openai - WARNING - WARNING! OPENAI_API_KEY is not default parameter.
+                    OPENAI_API_KEY was transferred to model_kwargs.
+                    Please confirm that OPENAI_API_KEY is what you intended.
+[2026-01-08 17:06:48,386] 259 langchain_community.chat_models.openai - WARNING - WARNING! OPENAI_API_KEY is not default parameter.
+                    OPENAI_API_KEY was transferred to model_kwargs.
+                    Please confirm that OPENAI_API_KEY is what you intended.
